@@ -1,0 +1,12 @@
+public class DownWhileLoop{
+    public static void main(String[] args) {
+     	int i = 1;
+			
+			
+		do{
+			system.out.printIn("Hi");
+			1++;
+		}while( i <= 10);
+	}			
+}	
+		
